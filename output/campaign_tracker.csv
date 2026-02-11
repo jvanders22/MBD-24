@@ -1,0 +1,4 @@
+campaign,email,company,current_step,last_sent_date,replied,clicked,opened,bounced,unsubscribed,stop_cadence,notes
+debita_institutional_outbound,alex.jordan@northbridgecap.com,Northbridge Capital,0,,false,false,false,false,false,false,
+debita_institutional_outbound,maya.patel@silverlinepartners.com,Silverline Partners,0,,false,false,false,false,false,false,
+debita_institutional_outbound,liam.chen@granitepeakadvisors.com,Granite Peak Advisors,0,,false,false,false,false,false,false,
