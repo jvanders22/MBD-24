@@ -1,0 +1,4 @@
+first_name,last_name,title,company,email,source,region,legal_basis,specific_detail,status,segment,owner
+Alex,Jordan,Chief Investment Officer,Northbridge Capital,alex.jordan@northbridgecap.com,public company website,US,legitimate_interest,LATAM structured private credit allocations at Northbridge,ready,b2b2c,
+Maya,Patel,Investor Relations Director,Silverline Partners,maya.patel@silverlinepartners.com,conference opt-in,UK,consent,private credit manager selection for Silverline's LP network,ready,b2b2c,
+Liam,Chen,Portfolio Manager,Granite Peak Advisors,liam.chen@granitepeakadvisors.com,referral opt-in,US,legitimate_interest,short-duration opportunistic credit sleeves,ready,b2b2c,
